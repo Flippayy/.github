@@ -1,2 +1,2 @@
 # .github
-Flippay design for better buying at better prices.
+Flippay design for buying at better prices.
